@@ -2,7 +2,7 @@
 <div>
   <ul>
     <li>💻 Hoje trabalho com Front-End.</li>
-    <li>📚 Estudando Html5, Css3, JavaScript, Bootstrap.</li>
+    <li>📚 Estudando Html5, Css3, JavaScript.</li>
     <li>📧 Contate-me no Email: eliezeralvesbernardino@gmail.com</li>
   </ul>
 </div>
