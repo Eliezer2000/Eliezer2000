@@ -1,8 +1,8 @@
 # Olá! Eu sou Eliézer-Alves!
 <div>
   <ul>
-    <li>💻 </li>
-    <li>📚 Estudando Html5, Css3, JavaScript e .NET .</li>
+    <li>💻 Desenvolvedor Back-end em C Sharp .NET </li>
+    <li>📚 Estudando C Sharp & .NET </li>
     <li>📧 Contate-me no Email: eliezeralvesbernardino@gmail.com</li>
   </ul>
 </div>
