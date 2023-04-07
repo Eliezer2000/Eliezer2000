@@ -1,17 +1,14 @@
-# Olá! Eu sou Eliézer-Alves!
-<div>
-  <ul>
-    <li>💻 Desenvolvedor Back-end!</li>
-    <li>🌏💻 Software Developer Júnior at @Mercado Livre </li>
-    <li>📧 Contate-me no Email: eliezeralvesbernardino@gmail.com</li>
-  </ul>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEC502&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aec502&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eliézer+Alves+Bernardino;I'm+22+years+old;I'm+from+Brazil;I+Software+Developer+at+Mercado+Livre;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Eliezer2000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliezer2000&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezer2000&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eliezer2000&bg_color=2b2729&color=aec502&line=0084ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div style="display: inline_block"><br>
   
@@ -35,6 +32,7 @@
  ##
   
 <div> 
+  
 
 
 
@@ -47,7 +45,13 @@
 
 </div>
 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EliezerrAlvesBernardino}/count.svg" /></p> 
+<br>
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEC502&height=120&section=footer"/>
 
 
 
